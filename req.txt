@@ -1,4 +1,4 @@
 twikit
 pandas
 openpyxl
-playwright
+#playwright
