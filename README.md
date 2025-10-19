@@ -46,5 +46,5 @@ Hello, this is the tutorial on how you could use the scraper for your class assi
 
 # Help
 👉 Discord : Ox.
-👉 Instagram : @daffatarigan69
+👉 Instagram : [@daffatarigan69](https://www.instagram.com/daffatarigan69/)
 
