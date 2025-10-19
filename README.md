@@ -1,5 +1,6 @@
 **⚠️THIS IS STRICTLY FOR EDUCATIONAL USE ONLY!⚠️**
 **⚠️DO NOT REDISTRIBUTE⚠️**
+**⚠️DO NOT USE YOUR MAIN ACCOUNT⚠️**
 
 Hello, this is the tutorial on how you could use the scraper for your class assignments / researches, follow along the guide, and you should be able to run it too 😁👍
 
@@ -10,7 +11,7 @@ Hello, this is the tutorial on how you could use the scraper for your class assi
   <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/23a9f9a4-eab9-4444-8670-1eb294977a56" />
 - Once you have reached the `Explorer` page of your `Visual Studio Code` press **Shift + `** to open the terminal
   <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/c7652d7c-6553-4106-8aa5-342a537f0fb5" />
-- Type in `git clone https://github.com/DaBabyOx/TwitterScrapper.git` inside of your terminal and run it
+- Type in `git clone https://github.com/DaBabyOx/TwitterScrapper.git` inside of your terminal and run it (or just download the zip of the code in the releases section and extract it somewhere if you dont have git)
   <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/803e0f8b-891b-48e9-9a22-8f9bb17db8b8" />
 
 ## 2. Fetch your X Tokens
